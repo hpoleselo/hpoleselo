@@ -2,4 +2,4 @@
 
 I like to automate stuff!
 
-![hello-there](/home/henrivis/Downloads/welcome-readme/hello-there.gif)
+![hello-there](/https://github.com/hpoleselo/welcome-readme/blob/main/hello-there.gif)
