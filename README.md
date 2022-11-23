@@ -1,6 +1,6 @@
 # About Me
 
-Software Developer with focus on back-end and Cloud (GCP) and MLOps, Robotics Researcher and Electrical Engineer.
+Software Developer with focus on back-end for scalable webservices, Cloud (GCP) and MLOps, Robotics Researcher and Electrical Engineer.
 
 I like to automate stuff!
 
